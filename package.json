@@ -1,0 +1,28 @@
+{
+  "name": "recap-upto-chapter-2",
+  "version": "1.0.0",
+  "description": "This is a recap upto chapter 2",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninadraj221/NamasteReact-React-recap-upto-chapter2.git"
+  },
+  "author": "Ninad Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninadraj221/NamasteReact-React-recap-upto-chapter2/issues"
+  },
+  "homepage": "https://github.com/ninadraj221/NamasteReact-React-recap-upto-chapter2#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
